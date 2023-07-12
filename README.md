@@ -16,9 +16,9 @@
 ## 代表性论文
 
 1. **Yuqiang Li**, Yixin Luo, Long Peng, Yangyang Li, Binzhi Zhao, Wang Wang, Hailiang Pang, Yi Deng, Ruopeng Bai, Yu Lan*, Guoyin Yin*. Reaction scope and mechanistic insights of nickel-catalyzed migratory Suzuki–Miyaura cross-coupling. **Nature Communications** 2020, 11, 417-429.<br><br>
-2. Hepan Wang, Purui Zheng, Xiaoqiang Wu, **Yuqiang Li***, Tao XU*. Modular and Facile Access to Chiral α‑Aryl Phosphates via Dual Nickel- and Photoredox-Catalyzed Reductive Cross-Coupling. **J. Am. Chem. Soc.** 2022, 144, 3989−3997.<br>
-3. Yangyang Li, **Yuqiang Li**, Hongjin Shi, Hong Wei, Haoyang Li, Ignacio Funes-Ardoiz*, Guoyin Yin*. Modular access to substituted cyclohexanes with kinetic stereocontrol. **Science** 2022, 376, 749–753.<br>
-4. Weiyu Kong Yang Bao, Liguo Lu, Zhipeng Han, Yifan Zhong, Ran Zhang, **Yuqiang Li***, Guoyin Yin*. Base-Modulated 1,3-Regio- and Stereoselective Carboboration of Cyclohexenes. **Angew. Chem. Int. Ed.** 2023, e202308041.<br>
+2. Hepan Wang, Purui Zheng, Xiaoqiang Wu, **Yuqiang Li***, Tao XU*. Modular and Facile Access to Chiral α‑Aryl Phosphates via Dual Nickel- and Photoredox-Catalyzed Reductive Cross-Coupling. **J. Am. Chem. Soc.** 2022, 144, 3989−3997.<br><br>
+3. Yangyang Li, **Yuqiang Li**, Hongjin Shi, Hong Wei, Haoyang Li, Ignacio Funes-Ardoiz*, Guoyin Yin*. Modular access to substituted cyclohexanes with kinetic stereocontrol. **Science** 2022, 376, 749–753.<br><br>
+4. Weiyu Kong Yang Bao, Liguo Lu, Zhipeng Han, Yifan Zhong, Ran Zhang, **Yuqiang Li***, Guoyin Yin*. Base-Modulated 1,3-Regio- and Stereoselective Carboboration of Cyclohexenes. **Angew. Chem. Int. Ed.** 2023, e202308041.<br><br>
 5. Dong Wu, Weiyu Kong, Yang Bao, Dengyang Zhao, **Yuqiang Li***, Guoyin Yin*. Alkene 1,1-difunctionalizations via organometallic-radical relay. **Nature Catalysis** 2023, accepted.
 
 ## 发表论文
